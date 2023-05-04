@@ -23,7 +23,7 @@ This project aims to create an API proxy for DuckDuckGo and a corresponding fron
 ## Installation and Setup
 
 1. Clone the repository: git clone https://github.com/dino110/duckduckApp.git
-2. Navigate to the project directory: cd duckduckGO
+2. Navigate to the project directory: cd duckduckApp
 3. Install dependencies for the API proxy: cd backend && npm install
 4. Install dependencies for the front-end: cd ../frontend && npm install
 
